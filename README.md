@@ -7,7 +7,7 @@ process monitoring, and operational dashboard design.
 ## Projects
 
 ### 1. Manufacturing Defect Operations Dashboard
-**Tools:** Python (pandas), Tableau, Excel  
+**Tools:** Python (pandas), Tableau, Excel, Kaggle (for data sourcing)
 **Dataset:** 1,000 manufacturing defect records (Jan–Jun 2024)
 
 Built an operational KPI dashboard to monitor defect patterns, inspection team 
@@ -22,6 +22,8 @@ workload, and repair cost trends across a 6-month production period.
 - Heatmap analysis of defect location vs severity
 
 **Files:** `analyticsProjectDirectory/EDAdefects/`
+
+**Dataset:** `https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects/data`
 
 ---
 
