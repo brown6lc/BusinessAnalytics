@@ -13,7 +13,7 @@ process monitoring, and operational dashboard design.
 Built an operational KPI dashboard to monitor defect patterns, inspection team 
 workload, and repair cost trends across a 6-month production period.
 
-<img width="995" height="791" alt="image" src="https://github.com/user-attachments/assets/37cffd72-0ead-493f-8999-25718eabd5ad" />
+<img width="995" height="793" alt="image" src="https://github.com/user-attachments/assets/5c602e07-e88d-4b33-9f60-0bd39af90d34" />
 
 **Skills demonstrated:**
 - Root cause analysis via defect type and severity breakdown
