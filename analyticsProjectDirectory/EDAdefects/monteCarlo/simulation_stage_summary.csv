@@ -1,0 +1,13 @@
+stage,defect_rate,defect_count,scenario
+Stage 1: Raw Material Intake,0.0297,297,Current Process
+Stage 2: Machining,0.0704,704,Current Process
+Stage 3: Assembly,0.0979,979,Current Process
+Stage 4: Inline Inspection,0.037,370,Current Process
+Stage 5: Rework,0.058,580,Current Process
+Stage 6: Final Inspection,0.0207,207,Current Process
+Stage 1: Raw Material Intake,0.0304,304,Improved Process
+Stage 2: Machining,0.0702,702,Improved Process
+Stage 3: Assembly,0.04,400,Improved Process
+Stage 4: Inline Inspection,0.0399,399,Improved Process
+Stage 5: Rework,0.0608,608,Improved Process
+Stage 6: Final Inspection,0.0182,182,Improved Process
