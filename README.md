@@ -46,8 +46,8 @@ Modeled a 6-stage manufacturing production process to identify high-risk failure
 
 **Files:** `analyticsProjectDirectory/monteCarlo/`
 
-### 3. Manufacturing Process Improvement & Monte Carlo Simulation
-**Tools:** Python (NumPy, pandas), Power BI, Lucidchart
+### 3. COVID-19 Global Data Analysis
+**Tools:** PostgreSQL, R
 **Dataset:** 6 structured CSV datasets covering global case, death, recovery, and testing data
 `https://www.kaggle.com/datasets/imdevskp/corona-virus-report`
 
