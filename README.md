@@ -44,7 +44,7 @@ Modeled a 6-stage manufacturing production process to identify high-risk failure
 - Projected overall defect rate of 27.85% under current process conditions
 - Targeted inline QC intervention at Stage 3 reduces failure rate from 10% to 4%, projecting a 4.47% reduction in overall defect rate
 
-**Files:** `analyticsProjectDirectory/EDAdefects/MonteCarloSimulation/`
+**Files:** `analyticsProjectDirectory/monteCarlo/`
 ---
 
 ## In Progress
