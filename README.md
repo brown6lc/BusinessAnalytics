@@ -45,6 +45,25 @@ Modeled a 6-stage manufacturing production process to identify high-risk failure
 - Targeted inline QC intervention at Stage 3 reduces failure rate from 10% to 4%, projecting a 4.47% reduction in overall defect rate
 
 **Files:** `analyticsProjectDirectory/monteCarlo/`
+
+### 3. Manufacturing Process Improvement & Monte Carlo Simulation
+**Tools:** Python (NumPy, pandas), Power BI, Lucidchart
+**Dataset:** 6 structured CSV datasets covering global case, death, recovery, and testing data
+`https://www.kaggle.com/datasets/imdevskp/corona-virus-report`
+
+Loaded and queried six COVID-19 datasets to surface trends in lethality, regional disparities, outbreak hotspots, and the relationship between testing intensity and mortality outcomes.
+
+**Skills demonstrated:**
+- Multi-table relational database design and data ingestion via COPY
+- Time-series analysis of global case fatality rate evolution
+- WHO region aggregation with recovery rate calculation
+- Week-over-week growth rate analysis for outbreak hotspot identification
+- Cross-country testing vs. mortality correlation setup
+
+**Key findings:**
+In progress
+
+**Files:** `analyticsProjectDirectory/covidAnalysis/`
 ---
 
 ## In Progress
