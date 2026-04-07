@@ -54,4 +54,4 @@ Modeled a 6-stage manufacturing production process to identify high-risk failure
 ---
 
 ## Tools & Skills
-Python, pandas, Tableau, Power Bi, Excel, Data Cleaning, Monte Carlo Simulation, Process Analysis, KPI Design
+Python (pandas, numpy), SQL, R, Tableau, Power Bi, Excel, Data Cleaning, Monte Carlo Simulation, Process Analysis, KPI Design
