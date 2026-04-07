@@ -1,4 +1,4 @@
-# Business Analytics Portfolio
+# Analytics Portfolio
 A collection of business analytics projects demonstrating skills in data cleaning, 
 process monitoring, and operational dashboard design.
 
