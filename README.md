@@ -27,6 +27,7 @@ workload, and repair cost trends across a 6-month production period.
 
 ### 2. Manufacturing Process Improvement & Monte Carlo Simulation
 **Tools:** Python (NumPy, pandas), Power BI, Lucidchart
+
 **Dataset:** Synthetic — failure probabilities parameterized from manufacturing defect records analysis
 
 Modeled a 6-stage manufacturing production process to identify high-risk failure points and quantify the impact of a targeted process intervention using Monte Carlo simulation.
